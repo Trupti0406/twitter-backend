@@ -14,7 +14,7 @@ dotenv.config();
 // to get rid of CORS (cross-origin resource sharing) error
 app.use(
   cors({
-    origin: "https://twitter-server-2mbt.onrender.com",
+    origin: "https://twitter-server-ez17.onrender.com",
   })
 );
 
